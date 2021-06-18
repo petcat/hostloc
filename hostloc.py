@@ -172,7 +172,7 @@ def print_my_ip():
 
 
 if __name__ == "__main__":
-    username = "aming,caddy,dvd,trojan."
+    username = ""
     password = ""
     # username = os.environ["HOSTLOC_USERNAME"]
     # password = os.environ["HOSTLOC_PASSWORD"]
