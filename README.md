@@ -4,7 +4,7 @@
 
 `wget -O /home/hostloc.py https://raw.githubusercontent.com/petcat/hostloc/main/hostloc.py`
 
-修改175、176行的username和password
+### 修改175、176行的username和password，多账户请用逗号分隔，username1,username2
 
 ```
 apt install python3-pip
